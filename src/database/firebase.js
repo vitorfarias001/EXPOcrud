@@ -2,14 +2,14 @@ import firebase from "firebase";
 import "firebase/firestore";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBJqKyzEvnQFKQc-y4K31zbgj9rssXHz4Y",
-  authDomain: "react-native-97bfa.firebaseapp.com",
-  databaseURL: "https://react-native-97bfa.firebaseio.com",
-  projectId: "react-native-97bfa",
-  storageBucket: "react-native-97bfa.appspot.com",
-  messagingSenderId: "961930425654",
-  appId: "1:961930425654:web:cdbde3f2ff278ed214ef97",
+  apiKey: "AIzaSyD8CxUC--HftTuyTOYqxeBqjI1tv2LEbAk",
+  authDomain: "react-native-firebase-fatz.firebaseapp.com",
+  projectId: "react-native-firebase-fatz",
+  storageBucket: "react-native-firebase-fatz.appspot.com",
+  messagingSenderId: "635659267113",
+  appId: "1:635659267113:web:0c835c90bb049fae4a4038"
 };
+
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
